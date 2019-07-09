@@ -25,6 +25,7 @@ public class AccountRepositoryImpl implements AccountRepository {
         return entityManager.find(Account.class, accountNumber);
     }
 
+    @SuppressWarnings("unchecked")
     @Override
     @Transactional
     public List<Account> findAll() {

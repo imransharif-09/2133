@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="transfer.api.validator.MoneyTransferRequestValidatorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-07-09T18:42:36" hostname="Imran-Sharifs-MacBook-Air.local" time="0.016">
+  <properties/>
+  <testcase name="testProcessMoneyTransferRequestThrowExceptionWhenFromAccountIsNullEmpty" classname="transfer.api.validator.MoneyTransferRequestValidatorTest" time="0.001"/>
+  <testcase name="testProcessMoneyTransferRequestThrowExceptionWhenToAccountIsNullEmpty" classname="transfer.api.validator.MoneyTransferRequestValidatorTest" time="0.001"/>
+  <testcase name="testProcessMoneyTransferRequestThrowExceptionWhenBothAccountsAreSame" classname="transfer.api.validator.MoneyTransferRequestValidatorTest" time="0.002"/>
+  <testcase name="testProcessMoneyTransferRequestThrowExceptionWhenTransferAmountIsInvalid" classname="transfer.api.validator.MoneyTransferRequestValidatorTest" time="0.002"/>
+  <testcase name="testProcessMoneyTransferRequestThrowExceptionWhenFromAccountNotFound" classname="transfer.api.validator.MoneyTransferRequestValidatorTest" time="0.001"/>
+  <testcase name="testProcessMoneyTransferRequestThrowExceptionWhenToAccountNotFound" classname="transfer.api.validator.MoneyTransferRequestValidatorTest" time="0.005"/>
+  <testcase name="testProcessMoneyTransferRequestThrowExceptionWhenBalanceIsInsufficient" classname="transfer.api.validator.MoneyTransferRequestValidatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

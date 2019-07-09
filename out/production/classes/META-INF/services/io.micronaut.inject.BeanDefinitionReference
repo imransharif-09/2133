@@ -1,0 +1,8 @@
+transfer.api.exception.handler.$MoneyTransferExceptionHandlerDefinitionClass
+transfer.api.service.$MoneyTransferServiceImplDefinitionClass
+transfer.api.repository.$$AccountRepositoryImplDefinition$InterceptedDefinitionClass
+transfer.api.controller.$MoneyTransferControllerDefinitionClass
+transfer.api.validator.$MoneyTransferRequestValidatorDefinitionClass
+transfer.api.service.$MoneyTransferServiceDefinitionClass
+transfer.api.repository.$AccountRepositoryImplDefinitionClass
+transfer.api.dataloader.$DataLoaderDefinitionClass

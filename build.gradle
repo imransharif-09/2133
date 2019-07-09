@@ -46,10 +46,6 @@ dependencies {
 
     // https://mvnrepository.com/artifact/org.mockito/mockito-core
     testCompile group: 'org.mockito', name: 'mockito-core', version: '2.1.0'
-    compile "io.micronaut.configuration:hibernate-jpa"
-
-
-//    compile group: 'io.micronaut.test', name: 'micronaut-test-core', version: '1.0.5'
 
 
 }
